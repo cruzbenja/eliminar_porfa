@@ -7,4 +7,5 @@ echo(pedro)
 
 
 echo "hola benjo cruz"
+echo "hola benjo cruz"
 ?>
